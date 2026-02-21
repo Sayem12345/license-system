@@ -3,7 +3,7 @@
     "device_id": "SAYEM55555",
     "key": "ST1",
     "expirydate": "31-12-2025",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "Know",
