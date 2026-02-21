@@ -1,5 +1,11 @@
 [
   {
+    "device_id": "",
+    "key": "",
+    "expirydate": "",
+    "Allowoffline": false
+  },
+  {
     "device_id": "SAYEM55555",
     "key": "ST1",
     "expirydate": "31-12-2025",
