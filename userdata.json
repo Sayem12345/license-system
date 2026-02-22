@@ -1,11 +1,5 @@
 [
   {
-    "device_id": "9def408fa9b61b9b",
-    "key": "Admin",
-    "expirydate": "22-02-2026 13:00",
-    "Allowoffline": false
-  },
-  {
     "name": "MS GAMING",
     "device_id": "b69da884d99a41cd",
     "key": "ms",
