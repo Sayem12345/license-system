@@ -1,5 +1,12 @@
 [
   {
+    "name": "Dipu",
+    "device_id": "0cec4b7a18ee12fa",
+    "key": "Dipu",
+    "expirydate": "22-02-2026 13:00",
+    "Allowoffline": true
+  },
+  {
     "device_id": "78690caa1548e80b",
     "key": "pro",
     "expirydate": "21-02-2027",
