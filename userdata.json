@@ -28,5 +28,11 @@
     "key": "63f102cec4fa215a",
     "expirydate": "22-02-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "00299c6112ac2e14",
+    "key": "00299c6112ac2e14",
+    "expirydate": "22-02-2027",
+    "Allowoffline": true
   }
 ]
