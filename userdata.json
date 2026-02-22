@@ -208,5 +208,11 @@
     "key": "6f2da93af84b5d7c",
     "expirydate": "22-02-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a42cd467e4156c32",
+    "key": "sayem",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
