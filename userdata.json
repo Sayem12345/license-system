@@ -1,17 +1,5 @@
 [
   {
-    "device_id": "4d7b8e12aca44cd9",
-    "key": "Arif",
-    "expirydate": "22-02-2026 12:00",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "0cec4b7a18ee12fa",
-    "key": "Dipu",
-    "expirydate": "22-02-2026 13:00",
-    "Allowoffline": false
-  },
-  {
     "device_id": "5582e413ccefceb8",
     "key": "Shohan",
     "expirydate": "22-02-2026 13:00",
