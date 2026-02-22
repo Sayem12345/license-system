@@ -1,18 +1,5 @@
 [
   {
-    "device_id": "1ff1022d73f6689e",
-    "key": "1ff1022d73f6689e",
-    "expirydate": "22-02-2026 14:00",
-    "Allowoffline": true
-  },
-  {
-    "name": "Dipu",
-    "device_id": "0cec4b7a18ee12fa",
-    "key": "Dipu",
-    "expirydate": "22-02-2026 13:00",
-    "Allowoffline": true
-  },
-  {
     "device_id": "b50c99953c8f2b5e",
     "key": "Sazzat",
     "expirydate": "21-02-2027",
