@@ -1,29 +1,5 @@
 [
   {
-    "device_id": "7d7b8e73b28406eb",
-    "key": "7d7b8e73b28406eb",
-    "expirydate": "23-02-2026 08:27",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "7a876f490f075cc3",
-    "key": "7a876f490f075cc3",
-    "expirydate": "23-02-2026 08:26",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "7d7b8e73b28406eb",
-    "key": "7d7b8e73b28406eb",
-    "expirydate": "23-02-2026 06:25",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "0cec4b7a18ee12fa",
-    "key": "0cec4b7a18ee12fa",
-    "expirydate": "22-02-2026 14:01",
-    "Allowoffline": true
-  },
-  {
     "device_id": "1123a8457041cc03",
     "key": "1123a8457041cc03",
     "expirydate": "22-02-2026 13:58",
