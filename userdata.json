@@ -1,12 +1,6 @@
 [
   {
     "device_id": "7d7b8e73b28406eb",
-    "key": "Sayem",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "7d7b8e73b28406eb",
     "key": "ST1",
     "expirydate": "26-02-2026",
     "Allowoffline": true
