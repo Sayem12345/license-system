@@ -40,5 +40,11 @@
     "key": "ca3f0fa9ed60cb3d",
     "expirydate": "22-02-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0cec4b7a18ee12fa",
+    "key": "0cec4b7a18ee12fa",
+    "expirydate": "22-02-2027",
+    "Allowoffline": true
   }
 ]
