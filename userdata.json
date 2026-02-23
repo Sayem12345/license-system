@@ -64,11 +64,5 @@
     "key": "3day-1",
     "expirydate": "26-02-2026",
     "Allowoffline": true
-  },
-  {
-    "device_id": "Rr",
-    "key": "Rr",
-    "expirydate": "25-02-2026",
-    "Allowoffline": true
   }
 ]
