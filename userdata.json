@@ -16,5 +16,11 @@
     "key": "জিহাদ",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7d7b8e73b28406eb",
+    "key": "Me",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
