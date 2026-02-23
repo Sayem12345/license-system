@@ -28,5 +28,11 @@
     "key": "সাব্বির",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4217fd4f19d0e2f8",
+    "key": "7day#1",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
