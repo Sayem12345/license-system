@@ -76,5 +76,11 @@
     "key": "পারভেজ",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ca3f0fa9ed60cb3d",
+    "key": "Admin",
+    "expirydate": "23-02-2030",
+    "Allowoffline": true
   }
 ]
