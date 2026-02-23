@@ -52,5 +52,11 @@
     "key": "নুরুল",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0cbd28939be1958d",
+    "key": "TRY-2",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
