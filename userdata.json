@@ -22,5 +22,11 @@
     "key": "Me",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d82842c777089c6e",
+    "key": "সিফাত",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
