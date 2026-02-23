@@ -94,5 +94,11 @@
     "key": "Try-3",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "191f58868906227b",
+    "key": "মাহফুজ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
