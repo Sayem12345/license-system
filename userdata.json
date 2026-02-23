@@ -10,5 +10,17 @@
     "key": "আমারই এইটা 😐",
     "expirydate": "23-02-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fastaccount",
+    "key": "জিহাদ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "934a7a7669dda22b",
+    "key": "ডুইপ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
