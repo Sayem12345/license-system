@@ -112,5 +112,11 @@
     "key": "3Day-2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f696ecf5416bb7d9",
+    "key": "Tey-5",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
