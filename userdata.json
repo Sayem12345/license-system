@@ -76,5 +76,11 @@
     "key": "Emulator-2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8e7e0794e4dde4d5",
+    "key": "Emulator-3",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
