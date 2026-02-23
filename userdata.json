@@ -22,5 +22,11 @@
     "key": "সিফাত",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a38dd740a138c8f7",
+    "key": "সাব্বির",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
