@@ -66,27 +66,9 @@
     "Allowoffline": true
   },
   {
-    "device_id": "191f58868906227b",
-    "key": "মাহফুজ",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "40651b0d9677dc36",
-    "key": "Emulator-2",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "8e7e0794e4dde4d5",
-    "key": "Emulator-3",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "c4a1c4a0d8080ca6",
-    "key": "Emulator-1",
-    "expirydate": "26-02-2026",
+    "device_id": "b50c99953c8f2b5e",
+    "key": "b50c99953c8f2b5e",
+    "expirydate": "23-02-2027",
     "Allowoffline": true
   }
 ]
