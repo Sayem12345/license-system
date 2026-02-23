@@ -166,5 +166,11 @@
     "key": "Try-24#6",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fef1117762e6161d",
+    "key": "Try-24#7",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
