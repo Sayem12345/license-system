@@ -82,5 +82,11 @@
     "key": "Admin",
     "expirydate": "23-02-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "439725356877854a",
+    "key": "Nizam-bro",
+    "expirydate": "23-02-2035",
+    "Allowoffline": true
   }
 ]
