@@ -130,5 +130,11 @@
     "key": "2 hours",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b9baf69280fad2db",
+    "key": "8Day-1",
+    "expirydate": "04-03-2026",
+    "Allowoffline": true
   }
 ]
