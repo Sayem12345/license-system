@@ -130,5 +130,11 @@
     "key": "7Day-2",
     "expirydate": "03-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0d0bcfb17374ca23",
+    "key": "7Day-3",
+    "expirydate": "03-03-2026",
+    "Allowoffline": true
   }
 ]
