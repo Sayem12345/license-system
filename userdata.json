@@ -298,5 +298,11 @@
     "key": "Ij614620",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e489cb9213504cdc",
+    "key": "IJ2916196",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
