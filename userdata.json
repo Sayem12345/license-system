@@ -192,8 +192,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "@Owner_rakibul",
-    "key": "Rakibur_IJ_3Day",
+    "device_id": "9362e583b3462b16",
+    "key": "Rakibul_IJ_3Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f915b768165c6917",
+    "key": "Shakib_IJ_3Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
