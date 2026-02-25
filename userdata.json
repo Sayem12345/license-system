@@ -192,32 +192,38 @@
     "Allowoffline": true
   },
   {
-    "device_id": "9362e583b3462b16",
-    "key": "Rakibul_IJ_3Days",
+    "device_id": "@Owner_rakibul",
+    "key": "Rakibur_IJ_3Day",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "f915b768165c6917",
-    "key": "Shakib_IJ_3Days",
+    "device_id": "5e20b6a6a74d59d2",
+    "key": "Ayon_IJ_3Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "5d5008cc7b221f8e",
-    "key": "Sabbir_IJ_3Days",
+    "device_id": "7b01dbd57e18f600",
+    "key": "Rakib_IG_3 Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "64a08c122e3f2cec",
-    "key": "Shahin_3Days_IG",
+    "device_id": "f8c51ee65bbfa8ed",
+    "key": "3Days_IG_Sha",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
     "device_id": "135c756bdc5f01da",
-    "key": "Fariya_IG_3Days",
+    "key": "Fariya_IJ_3Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "1a7efb178ab06bab",
+    "key": "Naim_IJ_3Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
