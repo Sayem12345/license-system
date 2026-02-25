@@ -178,5 +178,11 @@
     "key": "Try-618162",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c4a3afc7c6f49bb3",
+    "key": "Ok10500",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
