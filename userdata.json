@@ -344,8 +344,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "d4204a3f02434023",
-    "key": "G-5",
+    "device_id": "3d3fa7023697a4f6",
+    "key": "G-4",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "9b0013a627c6b95c",
+    "key": "G-6",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
