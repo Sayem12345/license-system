@@ -166,5 +166,11 @@
     "key": "Nizam",
     "expirydate": "25-02-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e04008f1dc60da25",
+    "key": "Sazzat",
+    "expirydate": "25-02-2027",
+    "Allowoffline": true
   }
 ]
