@@ -336,5 +336,11 @@
     "key": "G-2",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "01f769cad432da9f",
+    "key": "G-3",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
