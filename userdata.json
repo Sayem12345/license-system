@@ -168,18 +168,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "ebb0dd2e176f11f6",
-    "key": "Try-ok",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "c0f043b2515ea097",
-    "key": "Try-618162",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "40c5195cdde87fcc",
     "key": "Ok500",
     "expirydate": "28-02-2026",
@@ -240,6 +228,12 @@
     "Allowoffline": true
   },
   {
+    "device_id": "5e20b6a6a74d59d2",
+    "key": "Ayon_IJ_3Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "7b01dbd57e18f600",
     "key": "Rakib_IG_3 Days",
     "expirydate": "28-02-2026",
@@ -247,13 +241,7 @@
   },
   {
     "device_id": "1a7efb178ab06bab",
-    "key": "Naim_IJ_3Days",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "04db98f27a4104c5",
-    "key": "Rafshan2342",
+    "key": "Naim35412",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
