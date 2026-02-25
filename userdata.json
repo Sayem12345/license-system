@@ -172,5 +172,11 @@
     "key": "Sazzat",
     "expirydate": "25-02-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1123a8457041cc03",
+    "key": "3Day-9",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
