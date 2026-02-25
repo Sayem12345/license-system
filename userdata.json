@@ -244,5 +244,11 @@
     "key": "Naim35412",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "04db98f27a4104c5",
+    "key": "Rafsan35632",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
