@@ -367,5 +367,11 @@
     "key": "Try-727266",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f3339da6eb0a7d7b",
+    "key": "f3339da6eb0a7d7b",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
