@@ -238,5 +238,11 @@
     "key": "Alamin_3Days",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7b01dbd57e18f600",
+    "key": "Rakib_IG_3 Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
