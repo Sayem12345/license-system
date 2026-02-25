@@ -190,5 +190,11 @@
     "key": "Antor01",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9362e583b3462b16",
+    "key": "Rakibul_IJ_3Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
