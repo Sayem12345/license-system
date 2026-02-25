@@ -226,5 +226,11 @@
     "key": "Rakibul_3Days_IJ",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a1d4e4c7df7715a4",
+    "key": "Alamin",
+    "expirydate": "25-02-2027",
+    "Allowoffline": true
   }
 ]
