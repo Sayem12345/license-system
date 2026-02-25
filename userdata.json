@@ -180,8 +180,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "c4a3afc7c6f49bb3",
-    "key": "Ok10500",
+    "device_id": "40c5195cdde87fcc",
+    "key": "Ok500",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "40c5195cdde87fcc",
+    "key": "Antor01",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
