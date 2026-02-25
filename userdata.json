@@ -240,9 +240,15 @@
     "Allowoffline": true
   },
   {
+    "device_id": "1a7efb178ab06bab",
+    "key": "Naim35412",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "04db98f27a4104c5",
-    "key": "Try-728252",
-    "expirydate": "26-02-2026",
+    "key": "Rafsan35632",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
@@ -254,6 +260,12 @@
   {
     "device_id": "65f7b97149805dcf",
     "key": "Try-782628",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "90e77ba525ac856c",
+    "key": "Try-99797",
     "expirydate": "26-02-2026",
     "Allowoffline": true
   }
