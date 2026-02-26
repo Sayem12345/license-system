@@ -355,5 +355,11 @@
     "key": "G-5",
     "expirydate": "01-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "22ffb7779d042e5c",
+    "key": "Torikul31726",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
