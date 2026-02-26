@@ -50,7 +50,7 @@
   {
     "device_id": "9def408fa9b61b9b",
     "key": "3day-1",
-    "expirydate": "27-02-2026",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   },
   {
@@ -348,6 +348,12 @@
     "device_id": "119da8464960a99e",
     "key": "Trial53146",
     "expirydate": "04-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "d4204a3f02434023",
+    "key": "G-5",
+    "expirydate": "01-03-2026",
     "Allowoffline": true
   }
 ]
