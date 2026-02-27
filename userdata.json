@@ -6,9 +6,27 @@
     "Allowoffline": true
   },
   {
+    "device_id": "934a7a7669dda22b",
+    "key": "ডুইপ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "98d8d140f2684eb7",
+    "key": "জিহাদ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "d82842c777089c6e",
     "key": "সিফাত",
     "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "a38dd740a138c8f7",
+    "key": "সাব্বির",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   },
   {
@@ -18,9 +36,33 @@
     "Allowoffline": true
   },
   {
+    "device_id": "b874e460b4fc3fa7",
+    "key": "রিফাত মোল্লা",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "77ba76a1b79d5ac8",
+    "key": "নুরুল",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "9def408fa9b61b9b",
+    "key": "3day-1",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "b50c99953c8f2b5e",
     "key": "b50c99953c8f2b5e",
     "expirydate": "23-02-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "858171801e02126a",
+    "key": "পারভেজ",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   },
   {
@@ -33,6 +75,18 @@
     "device_id": "b50c99953c8f2b5e",
     "key": "Sazzat-Bro",
     "expirydate": "23-02-2035",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "191f58868906227b",
+    "key": "মাহফুজ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f5c04d9c1b0c2a82",
+    "key": "3Day-2",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   },
   {
@@ -233,6 +287,13 @@
     "expirydate": "25-02-2027",
     "Allowoffline": true,
     "createdAt": "2026-02-25T14:13:52.251Z"
+  },
+  {
+    "device_id": "9bf5387a2f3f2ac9",
+    "key": "Admin-1",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true,
+    "createdAt": "2026-02-25T14:38:37.144Z"
   },
   {
     "device_id": "ebb0dd2e176f11f6",
