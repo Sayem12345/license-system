@@ -361,5 +361,11 @@
     "key": "Torikul31726",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c03d78aad3aa6bbf",
+    "key": "c03d78aad3aa6bbf",
+    "expirydate": "06-03-2026",
+    "Allowoffline": true
   }
 ]
