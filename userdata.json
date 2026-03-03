@@ -6,9 +6,21 @@
     "Allowoffline": true
   },
   {
+    "device_id": "934a7a7669dda22b",
+    "key": "ডুইপ",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "98d8d140f2684eb7",
     "key": "জিহাদ",
     "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "d82842c777089c6e",
+    "key": "সিফাত",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
@@ -21,6 +33,12 @@
     "device_id": "4217fd4f19d0e2f8",
     "key": "7day-1",
     "expirydate": "02-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "b874e460b4fc3fa7",
+    "key": "রিফাত মোল্লা",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   },
   {
@@ -48,9 +66,39 @@
     "Allowoffline": true
   },
   {
+    "device_id": "1ff1022d73f6689e",
+    "key": "3Day-3",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "dcf0d62ad2c78d9e",
+    "key": "3Day-5",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "0d0bcfb17374ca23",
     "key": "7Day-3",
     "expirydate": "03-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f92f394f161277a0",
+    "key": "2 hours",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "b9baf69280fad2db",
+    "key": "8Day-1",
+    "expirydate": "04-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "704a531797b49a29",
+    "key": "3Day-7",
+    "expirydate": "10-03-2026",
     "Allowoffline": true
   },
   {
@@ -66,14 +114,32 @@
     "Allowoffline": true
   },
   {
+    "device_id": "40c5195cdde87fcc",
+    "key": "Ok500",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "9362e583b3462b16",
     "key": "Rakibul_IJ_3Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
+    "device_id": "f915b768165c6917",
+    "key": "Shakib_IJ_3Days",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "64a08c122e3f2cec",
     "key": "Shahin_3Days_IG",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "135c756bdc5f01da",
+    "key": "Fariya_IG_3Days",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
@@ -87,6 +153,12 @@
     "device_id": "a1d4e4c7df7715a4",
     "key": "Alamin",
     "expirydate": "25-02-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "5e20b6a6a74d59d2",
+    "key": "Ayon_IJ_3Days_1",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
