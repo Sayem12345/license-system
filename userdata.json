@@ -6,12 +6,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "934a7a7669dda22b",
-    "key": "ডুইপ",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "98d8d140f2684eb7",
     "key": "জিহাদ",
     "expirydate": "26-02-2026",
@@ -87,12 +81,6 @@
     "device_id": "f92f394f161277a0",
     "key": "2 hours",
     "expirydate": "27-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "b9baf69280fad2db",
-    "key": "8Day-1",
-    "expirydate": "04-03-2026",
     "Allowoffline": true
   },
   {
