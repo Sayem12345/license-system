@@ -1,17 +1,5 @@
 [
   {
-    "device_id": "d82842c777089c6e",
-    "key": "সিফাত",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "a38dd740a138c8f7",
-    "key": "সাব্বির",
-    "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "4217fd4f19d0e2f8",
     "key": "7day-1",
     "expirydate": "02-03-2026",
@@ -124,6 +112,12 @@
     "device_id": "b9baf69280fad2db",
     "key": "b9baf69280fad2db",
     "expirydate": "08-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "7373e79e0d187f21",
+    "key": "Try-1",
+    "expirydate": "09-03-2026",
     "Allowoffline": true
   }
 ]
